@@ -1,0 +1,7 @@
+bloat/
+base/bin
+base/usr
+base/sbin
+base/lib
+base/boot
+!base/boot/syslinux.cfg

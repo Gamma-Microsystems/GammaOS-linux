@@ -1,0 +1,8 @@
+PRETTY_NAME="GammaOS 1.0"
+NAME="GammaOS"
+VERSION_ID="1.0"
+VERSION="1.0"
+ID=gamma_os
+HOME_URL="https://gamma-world.eu/"
+SUPPORT_URL="https://github.com/Gamma-Microsystems/GammaOS"
+BUG_REPORT_URL="https://github.com/Gamma-Microsystems/GammaOS/issues"
